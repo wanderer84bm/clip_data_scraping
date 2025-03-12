@@ -1,0 +1,23 @@
+url,commit message,file name,file status,before commit,after commit
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,add personal homepage link,README.md,modified,['This is the repository of my personal homepage.'],['This is the repository of my [personal homepage](https://chungyiweng.github.io/).']
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,add readme,README.md,added,[],"['# Take Me Home, Country Roads', '', 'This is the repository of my personal homepage.']"
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,group project files,index.html,modified,"['<a href=""files/moonriver_poster.pdf"" class=""project_link"">poster</a> |', '<a href=""files/moonriver_report.pdf"" class=""project_link"">report</a>', '<a href=""files/chungyi_2016_vision_project.pdf"" class=""project_link"">report</a> |']","['<a href=""projects/moonriver/poster.pdf"" class=""project_link"">poster</a> |', '<a href=""projects/moonriver/report.pdf"" class=""project_link"">report</a>', '<a href=""projects/bradpitt/report.pdf"" class=""project_link"">report</a> |']"
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,group project files,projects/bradpitt/report.pdf,renamed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,group project files,projects/moonriver/poster.pdf,renamed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,group project files,projects/moonriver/report.pdf,renamed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/Hello.jpg,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/SmartVideoSegmentLabelling.jpg,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/apple_news.png,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/cartoon-brew.jpg,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/dt.jpg,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/futurism.png,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/geekwire.png,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/gizmodo.png,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/mit.png,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/next-reality.png,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/nvidia.png,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/petapixel.jpg,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/petapixel.png,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/uwnews.png,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/venture-beat.png,removed,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/vrscout.png,removed,,
