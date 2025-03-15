@@ -1,23 +1,1620 @@
-url,commit message,file name,file status,before commit,after commit
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,add personal homepage link,README.md,modified,['This is the repository of my personal homepage.'],['This is the repository of my [personal homepage](https://chungyiweng.github.io/).']
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,add readme,README.md,added,[],"['# Take Me Home, Country Roads', '', 'This is the repository of my personal homepage.']"
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,group project files,index.html,modified,"['<a href=""files/moonriver_poster.pdf"" class=""project_link"">poster</a> |', '<a href=""files/moonriver_report.pdf"" class=""project_link"">report</a>', '<a href=""files/chungyi_2016_vision_project.pdf"" class=""project_link"">report</a> |']","['<a href=""projects/moonriver/poster.pdf"" class=""project_link"">poster</a> |', '<a href=""projects/moonriver/report.pdf"" class=""project_link"">report</a>', '<a href=""projects/bradpitt/report.pdf"" class=""project_link"">report</a> |']"
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,group project files,projects/bradpitt/report.pdf,renamed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,group project files,projects/moonriver/poster.pdf,renamed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,group project files,projects/moonriver/report.pdf,renamed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/Hello.jpg,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/SmartVideoSegmentLabelling.jpg,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/apple_news.png,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/cartoon-brew.jpg,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/dt.jpg,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/futurism.png,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/geekwire.png,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/gizmodo.png,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/mit.png,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/next-reality.png,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/nvidia.png,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/petapixel.jpg,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/petapixel.png,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/uwnews.png,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/venture-beat.png,removed,,
-https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/vrscout.png,removed,,
+url,commit message,file name,file status,page before commit,section modified,page after commit,new section
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,add personal homepage link,README.md,modified,"page does not exist
+",['This is the repository of my personal homepage.'],"# Take Me Home, Country Roads
+
+This is the repository of my [personal homepage](https://chungyiweng.github.io/).
+",['This is the repository of my [personal homepage](https://chungyiweng.github.io/).']
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,add readme,README.md,added,"page does not exist
+",[],"# Take Me Home, Country Roads
+
+This is the repository of my personal homepage.
+","['# Take Me Home, Country Roads', '', 'This is the repository of my personal homepage.']"
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,group project files,index.html,modified,"page does not exist
+","['<a href=""files/moonriver_poster.pdf"" class=""project_link"">poster</a> |', '<a href=""files/moonriver_report.pdf"" class=""project_link"">report</a>', '<a href=""files/chungyi_2016_vision_project.pdf"" class=""project_link"">report</a> |']","<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   Chung-Yi Weng - University of Washington
+  </title>
+  <link href=""images/uw.png"" rel=""icon"" type=""image/png""/>
+  <meta content=""Chung-Yi Weng's Personal Page."" name=""description""/>
+  <meta content=""Chung-Yi Weng"" http-equiv=""author""/>
+  <link href=""css/main.css"" rel=""stylesheet"" type=""text/css""/>
+ </head>
+ <body>
+  <div id=""navigator"">
+   <ul>
+    <li>
+     <a href=""#navigator"">
+      Profile
+     </a>
+    </li>
+    <li>
+     <a href=""#work_experience"">
+      Experience
+     </a>
+    </li>
+    <li>
+     <a href=""#research"">
+      Research
+     </a>
+    </li>
+    <li>
+     <a href=""#project"">
+      Project
+     </a>
+    </li>
+    <li>
+     <a href=""#industry_product"">
+      Product
+     </a>
+    </li>
+    <li>
+     <a href=""#patents"">
+      Patents
+     </a>
+    </li>
+   </ul>
+  </div>
+  <div id=""wrapper"">
+   <!-- profile block -->
+   <div id=""profile"">
+    <div id=""profile_content"">
+     <div id=""profile_content_name"">
+      <div id=""profile_content_name_text"">
+       Chung-Yi Weng
+      </div>
+      <div id=""profile_content_name_img"">
+       <img ,="""" alt=""Chinese Name"" height=""26"" src=""images/name.png"" width=""76""/>
+      </div>
+     </div>
+     <div id=""profile_content_description"">
+      PhD Student
+      <br/>
+      <a href=""https://realitylab.uw.edu/"">
+       UW Reality Lab
+      </a>
+      <br/>
+      <a href=""http://grail.cs.washington.edu/"">
+       GRAIL (Graphics and Imaging Laboratory)
+      </a>
+      <br/>
+      <a href=""https://www.cs.washington.edu/"">
+       Paul G. Allen School of Computer Science &amp; Engineering
+      </a>
+      <br/>
+      <a href=""https://www.washington.edu/"">
+       University of Washington
+      </a>
+      <br/>
+      <br/>
+      Email: lowercase_firstname_without_hyphen (*-at-*) cs.washington.edu
+      <br/>
+      <a class=""special_link"" href=""files/resume.pdf"">
+       Resume
+      </a>
+      <a class=""special_link"" href=""https://scholar.google.com/citations?user=giBLsYgAAAAJ&amp;hl=en"">
+       Google Scholar
+      </a>
+     </div>
+    </div>
+    <div id=""profile_image"">
+     <img ,="""" alt=""Chung-Yi Weng"" class=""align-center"" height=""160"" src=""images/Chung-Yi.jpg"" width=""120""/>
+    </div>
+   </div>
+   <div class=""item_block"" id=""aboutme"">
+    <div class=""item_headline"">
+     <h2>
+      About Me
+     </h2>
+    </div>
+    <div id=""aboutme_content"">
+     <p>
+      I will join Google Research as a Research Scientist this summer.
+			   Previously, I was a PhD student of computer science at
+      <a class=""light_blue_link"" href=""https://www.washington.edu/"">
+       University of Washington
+      </a>
+      ,
+			   where I enjoyed my times with
+      <a class=""light_blue_link"" href=""https://homes.cs.washington.edu/~curless/"">
+       Brian Curless
+      </a>
+      and
+      <a class=""light_blue_link"" href=""https://homes.cs.washington.edu/~kemelmi/"">
+       Ira Kemelmacher-Shlizerman
+      </a>
+      .
+     </p>
+     <p>
+      I was formerly a principal engineer in
+      <a class=""light_blue_link"" href=""https://www.cyberlink.com/"">
+       CyberLink
+      </a>
+      and received my bachelor's and master's degree
+               from
+      <a class=""light_blue_link"" href=""https://www.ntu.edu.tw/english/index.html"">
+       National Taiwan University
+      </a>
+      advised by
+      <a class=""light_blue_link"" href=""https://scholar.google.com/citations?user=AdwCtGbtIg0C"">
+       Ja-Ling Wu
+      </a>
+      .
+     </p>
+     <p>
+      My research interests broadly cover 3D vision, neural rendering, and computational photography, with expertise on human modeling.
+     </p>
+     <p>
+      I love pixels and believe the power of simple intuition and creative thinking.
+     </p>
+    </div>
+   </div>
+   <div class=""item_block"" id=""work_experience"">
+    <div class=""item_headline"">
+     <h2>
+      Work Experience
+     </h2>
+    </div>
+    <table>
+     <tr>
+      <td class=""work_description"">
+       I was wandering at Google in 2019 summer, where I found lots of fun in the Augmented Perception group led by
+       <a class=""light_blue_link"" href=""https://scholar.google.com/citations?user=hkCVqYkAAAAJ&amp;hl=en"">
+        Shahram Izadi
+       </a>
+       .
+					With
+       <a class=""light_blue_link"" href=""https://ai.google/research/people/106687/"">
+        Rohit Pandey
+       </a>
+       ,
+       <a class=""light_blue_link"" href=""https://scholar.google.com/citations?user=AliuYd0AAAAJ&amp;hl=en&amp;oi=ao"">
+        Christian Hane
+       </a>
+       ,
+       <a class=""light_blue_link"" href=""http://sofienbouaziz.com/"">
+        Sofien Bouaziz
+       </a>
+       , and
+       <a class=""light_blue_link"" href=""https://ai.google/research/people/SeanFanello/"">
+        Sean Fanello
+       </a>
+       , 
+					we delved into the world of 3D neural rendering: the good, the bad, and the beauty.
+      </td>
+      <td ,="""" class=""work_image"" id=""facebook_img"">
+       <a href=""https://ai.google/research/teams/perception/"">
+        <img ,="""" alt=""google"" height=""90"" src=""images/google.jpg"" width=""135""/>
+       </a>
+      </td>
+     </tr>
+     <tr>
+      <td class=""work_description"">
+       Summer 2018 was an amazing experience for me at Facebook Seattle as a research intern. 
+                    I have the privilege of collaborating with the computational photography team led by
+       <a class=""light_blue_link"" href=""https://research.fb.com/people/cohen-michael/"">
+        Michael Cohen
+       </a>
+       . 
+                    We worked to find innovative solutions for neural rendering and modeling human bodies.
+      </td>
+      <td ,="""" class=""work_image"" id=""facebook_img"">
+       <a href=""https://research.fb.com/category/computational-photography-and-intelligent-cameras/"">
+        <img ,="""" alt=""facebook research"" height=""63"" src=""images/facebook-research.png"" width=""125""/>
+       </a>
+      </td>
+     </tr>
+     <tr>
+      <td class=""work_description"">
+       <a class=""light_blue_link"" href=""https://www.cyberlink.com/"">
+        CyberLink
+       </a>
+       is a worldwide multimedia editing and playback software company in Taiwan. 
+                    During the period, I served as Tech Lead and was fortunate to work with a group of talents, 
+                    developing
+       <a class=""light_blue_link"" href=""#industry_product"">
+        13 image/video technologies
+       </a>
+       and filing
+       <a class=""light_blue_link"" href=""#patents"">
+        9 granted patents
+       </a>
+       for consumer products.
+      </td>
+      <td ,="""" class=""work_image"" id=""cyberlink_img"">
+       <a href=""https://www.cyberlink.com/"">
+        <img ,="""" alt=""cyberlink"" height=""49"" src=""images/cyberlink.png"" width=""140""/>
+       </a>
+      </td>
+     </tr>
+    </table>
+   </div>
+   <!--
+	<div class = ""item_block"" id=""news"">
+		<div class=""item_headline"">
+			<h2> News </h2>
+		</div>
+
+		<a href=""https://www.technologyreview.com/s/612647/machine-vision-creates-harry-potter-style-magic-photos/""> <img alt="""" src=""./images/press/mit.png"" style=""width:17%; margin:10px""></a>
+		<a href=""https://www.washington.edu/news/2019/06/11/making-moving-photos-a-reality/""> <img alt="""" src=""./images/press/uwnews.png"" style=""width:10%; margin:8px""></a>
+		<a href=""https://news.developer.nvidia.com/transforming-paintings-and-photos-into-animations-with-ai/""> <img alt="""" src=""./images/press/nvidia.png"" style=""width:12%; margin:10px 20px""></a>
+		<a href=""https://www.digitaltrends.com/cool-tech/ar-figures-walk-off-backdrop/""> <img alt="""" src=""./images/press/dt.jpg"" style=""width:10%; margin:8px""></a>
+		<a href=""https://www.geekwire.com/2019/photo-wake-makes-still-photographs-picasso-paintings-come-spookily-alive/""> <img alt="""" src=""./images/press/geekwire.png"" style=""width:10%; margin:10px 20px""></a>
+		<a href=""https://next.reality.news/news/university-washington-researchers-demo-ability-generate-3d-augmented-reality-content-from-2d-images-0191910/""> <img alt="""" src=""./images/press/next-reality.png"" style=""width:13%; margin:10px""></a>
+		<a href=""https://petapixel.com/2019/06/17/this-ai-can-bring-a-person-to-life-from-a-single-still-photo/""> <img alt="""" src=""./images/press/petapixel.png"" style=""width:15%; margin:10px""></a>
+		<a href=""https://gizmodo.com/a-new-ai-powered-system-creates-impressive-3d-animation-1831259377""> <img alt="""" src=""./images/press/gizmodo.png"" style=""width:12%; margin:10px""></a>
+		<a href=""https://vrscout.com/news/photo-wake-up-ar-animations/""> <img alt="""" src=""./images/press/vrscout.png"" style=""width:20%; margin:10px""></a>
+		<a href=""https://futurism.com/algorithm-3d-animations-still-image""> <img alt="""" src=""./images/press/futurism.png"" style=""width:8%; margin:10px""></a>
+		<a href=""https://venturebeat.com/2019/02/26/ar-and-vr-creators-have-an-unheralded-tool-to-make-their-content-shine-3d-reconstruction-tech/""> <img alt="""" src=""./images/press/venture-beat.png"" style=""width:20%; margin:5px""></a>
+		<a href=""https://tw.appledaily.com/international/20190104/JQOMWPQJ6DJXDWZO64U5OT5QTE/""> <img alt="""" src=""./images/press/apple_news.png"" style=""width:8%; margin:10px""></a>
+	</div>
+	-->
+   <div class=""item_block"" id=""research"">
+    <div class=""item_headline"">
+     <h2>
+      Research
+     </h2>
+    </div>
+    <!-- PersonNeRF -->
+    <div class=""project_item"">
+     <table>
+      <tbody>
+       <tr>
+        <td class=""project_image"">
+         <img alt=""personnerf"" class=""align-left"" src=""images\personnerf.jpg"" style=""vertical-align: bottom; padding-bottom:54px"" width=""220"">
+          <video autoplay="""" loop="""" muted="""" width=""70%"">
+           <source src=""images/personnerf.mp4"" type=""video/mp4""/>
+          </video>
+         </img>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_title"">
+         <a class=""project_title_link"" href=""https://grail.cs.washington.edu/projects/personnerf/"">
+          PersonNeRF: Personalized Reconstruction from Photo Collections
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_author"">
+         <b>
+          Chung-Yi Weng
+         </b>
+         ,
+         <a class=""author_link"" href=""https://pratulsrinivasan.github.io/"">
+          Pratul P. Srinivasan
+         </a>
+         ,
+         <a class=""author_link"" href=""https://homes.cs.washington.edu/~curless/"">
+          Brian Curless
+         </a>
+         ,
+         <a class=""author_link"" href=""https://homes.cs.washington.edu/~kemelmi/"">
+          Ira Kemelmacher-Shlizerman
+         </a>
+        </td>
+        <tr>
+         <tr>
+          <td class=""research_misc"">
+           <i>
+            CVPR,
+           </i>
+           2023
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_description"">
+           We present PersonNeRF, a method that takes a collection of photos of a subject 
+                           captured with arbitrary viewpoints, body poses and appearances, and builds a personalized space that enables rendering the 
+                           subject in an intuitive way with novel combinations of these attributes.
+           <p>
+            Above we rebuild Roger Federer's personalized space from his photos across more than 10 years.
+           </p>
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_appendix"">
+           <a class=""project_link"" href=""https://grail.cs.washington.edu/projects/personnerf/"">
+            project page
+           </a>
+           |
+           <a class=""project_link"" href=""https://arxiv.org/abs/2302.08504"">
+            paper
+           </a>
+           |
+           <a class=""project_link"" href=""https://youtu.be/2k_5hRSoon4"">
+            video
+           </a>
+          </td>
+         </tr>
+        </tr>
+       </tr>
+      </tbody>
+     </table>
+     <div class=""back_to_top"">
+      <a class=""black_link"" href=""#navigator"">
+       back to top
+      </a>
+     </div>
+    </div>
+    <!-- HumanNeRF -->
+    <div class=""project_item"">
+     <table>
+      <tbody>
+       <tr>
+        <td class=""project_image"">
+         <img alt=""humannerf"" class=""align-left"" src=""images\humannerf_image.jpg"" style=""vertical-align: bottom; padding-bottom: 48px"" width=""340"">
+          <video autoplay="""" loop="""" muted="""" width=""55%"">
+           <source src=""images/humannerf_video.mp4"" type=""video/mp4""/>
+          </video>
+         </img>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_title"">
+         <a class=""project_title_link"" href=""https://grail.cs.washington.edu/projects/humannerf/"">
+          HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_author"">
+         <b>
+          Chung-Yi Weng
+         </b>
+         ,
+         <a class=""author_link"" href=""https://homes.cs.washington.edu/~curless/"">
+          Brian Curless
+         </a>
+         ,
+         <a class=""author_link"" href=""https://pratulsrinivasan.github.io/"">
+          Pratul P. Srinivasan
+         </a>
+         ,
+         <a class=""author_link"" href=""https://jonbarron.info/"">
+          Jonathan T. Barron
+         </a>
+         ,
+         <a class=""author_link"" href=""https://homes.cs.washington.edu/~kemelmi/"">
+          Ira Kemelmacher-Shlizerman
+         </a>
+        </td>
+        <tr>
+         <tr>
+          <td class=""research_misc"">
+           <i>
+            CVPR,
+           </i>
+           2022
+           <b>
+            <font color=""red"">
+             (Oral Presentation)
+            </font>
+           </b>
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_description"">
+           We introduce a free-viewpoint rendering method -- HumanNeRF -- that works on a given monocular video of a human performing complex body motions, e.g. a video from YouTube. Our method enables pausing the video at any frame and rendering the subject from arbitrary new camera viewpoints or even a full 360-degree camera path for that particular frame and body pose.
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_appendix"">
+           <a class=""project_link"" href=""https://grail.cs.washington.edu/projects/humannerf/"">
+            project page
+           </a>
+           |
+           <a class=""project_link"" href=""https://arxiv.org/abs/2201.04127"">
+            paper
+           </a>
+           |
+           <a class=""project_link"" href=""https://youtu.be/GM-RoZEymmw"">
+            video
+           </a>
+           |
+           <a class=""project_link"" href=""https://github.com/chungyiweng/humannerf"">
+            code
+           </a>
+          </td>
+         </tr>
+        </tr>
+       </tr>
+      </tbody>
+     </table>
+     <div class=""back_to_top"">
+      <a class=""black_link"" href=""#navigator"">
+       back to top
+      </a>
+     </div>
+    </div>
+    <!-- Vid2Actor -->
+    <div class=""project_item"">
+     <table>
+      <tbody>
+       <tr>
+        <td class=""project_image"">
+         <img alt=""photo-wakeup"" class=""align-center"" height=""236"" src=""images\vid2actor.png"" width=""800""/>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_title"">
+         <a class=""project_title_link"" href=""https://grail.cs.washington.edu/projects/vid2actor/"">
+          Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_author"">
+         <b>
+          Chung-Yi Weng
+         </b>
+         ,
+         <a class=""author_link"" href=""https://homes.cs.washington.edu/~curless/"">
+          Brian Curless
+         </a>
+         ,
+         <a class=""author_link"" href=""https://homes.cs.washington.edu/~kemelmi/"">
+          Ira Kemelmacher-Shlizerman
+         </a>
+        </td>
+        <tr>
+         <tr>
+          <td class=""research_misc"">
+           <i>
+            arXiv,
+           </i>
+           2020
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_description"">
+           Given an ""in-the-wild"" video, we train a deep network with the video frames to produce an animatable human representation that can be rendered from any camera view in any body pose, enabling applications such as motion re-targeting and bullet-time rendering without the need for rigged 3D meshes.
+           <p>
+            Here we rebuild a 3D animatable Roger Federer from a video of 2015 US Open Final. Please check out the dynamic versions of the results on the
+            <a class=""light_blue_link"" href=""https://grail.cs.washington.edu/projects/vid2actor/"">
+             project page
+            </a>
+            .
+           </p>
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_appendix"">
+           <a class=""project_link"" href=""https://grail.cs.washington.edu/projects/vid2actor/"">
+            project page
+           </a>
+           |
+           <a class=""project_link"" href=""https://arxiv.org/abs/2012.12884"">
+            paper
+           </a>
+           |
+           <a class=""project_link"" href=""https://youtu.be/Zec8Us0v23o"">
+            video
+           </a>
+          </td>
+         </tr>
+        </tr>
+       </tr>
+      </tbody>
+     </table>
+     <div class=""back_to_top"">
+      <a class=""black_link"" href=""#navigator"">
+       back to top
+      </a>
+     </div>
+    </div>
+    <!-- Photo Wake-up-->
+    <div class=""project_item"">
+     <table>
+      <tbody>
+       <tr>
+        <td class=""project_image"">
+         <img alt=""photo-wakeup"" class=""align-center"" height=""288"" src=""images\photo-wakeup.png"" width=""800""/>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_title"">
+         <a class=""project_title_link"" href=""https://grail.cs.washington.edu/projects/wakeup/"">
+          Photo Wake-Up: 3D Character Animation from a Single Photo
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_author"">
+         <b>
+          Chung-Yi Weng
+         </b>
+         ,
+         <a class=""author_link"" href=""https://homes.cs.washington.edu/~curless/"">
+          Brian Curless
+         </a>
+         ,
+         <a class=""author_link"" href=""https://homes.cs.washington.edu/~kemelmi/"">
+          Ira Kemelmacher-Shlizerman
+         </a>
+        </td>
+        <tr>
+         <tr>
+          <td class=""research_misc"">
+           <i>
+            CVPR,
+           </i>
+           2019
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_description"">
+           Given a single photo as input (far left), we create a 3D animatable version of the subject, which can now walk towards the viewer (middle). 
+						The 3D result can be experienced in augmented reality (right); in the result above the user has virtually hung the artwork with a HoloLens headset and can watch the character run out of the painting from different views. 
+						Please get details and dynamic versions of the results on the
+           <a class=""light_blue_link"" href=""https://grail.cs.washington.edu/projects/wakeup/"">
+            project page
+           </a>
+           .
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_appendix"">
+           <a class=""project_link"" href=""https://grail.cs.washington.edu/projects/wakeup/"">
+            project page
+           </a>
+           |
+           <a class=""project_link"" href=""https://openaccess.thecvf.com/content_CVPR_2019/papers/Weng_Photo_Wake-Up_3D_Character_Animation_From_a_Single_Photo_CVPR_2019_paper.pdf"">
+            paper
+           </a>
+           |
+           <a class=""project_link"" href=""https://youtu.be/G63goXc5MyU"">
+            video
+           </a>
+           |
+           <a class=""project_link"" href=""https://www.technologyreview.com/s/612647/machine-vision-creates-harry-potter-style-magic-photos/"">
+            MIT Tech Review
+           </a>
+          </td>
+         </tr>
+        </tr>
+       </tr>
+      </tbody>
+     </table>
+     <div class=""back_to_top"">
+      <a class=""black_link"" href=""#navigator"">
+       back to top
+      </a>
+     </div>
+    </div>
+    <!-- RoletNet -->
+    <div class=""project_item"">
+     <table>
+      <tbody>
+       <tr>
+        <td class=""project_image"">
+         <img alt=""RoleNet"" class=""align-center"" height=""287"" src=""images\rolenet.png"" width=""776""/>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_title"">
+         <a class=""project_title_link"" href=""files/RoleNet_MovieAnalysisFromThePerspectiveOfSocialNetworks.pdf"">
+          RoleNet: Movie Analysis from the Perspective of Social Networks
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_author"">
+         <b>
+          Chung-Yi Weng
+         </b>
+         ,
+         <a class=""author_link"" href=""http://mmcv.csie.ncku.edu.tw/~wtchu/"">
+          Wei-Ta Chu
+         </a>
+         ,
+         <a class=""author_link"" href=""https://www.cmlab.csie.ntu.edu.tw/cml/dsp/prof-wu/prof-wu.html"">
+          Ja-Ling Wu
+         </a>
+        </td>
+        <tr>
+         <tr>
+          <td class=""research_misc"">
+           <i>
+            IEEE Transactions on Multimedia
+           </i>
+           2009
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_description"">
+           Inspired by idea of social network analysis, we propose a novel way to analyze movie videos from the perspective of social networks. The relationship between characters in a movie is elaborately described as a network, called RoleNet. Based on RoletNet, further network analysis is performed to extract semantic information in the movie, including leading roles, macro/micro community structures, and hidden story lines and story units.
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_appendix"">
+           <a class=""project_link"" href=""http://mmcv.csie.ncku.edu.tw/~wtchu/papers/2009IEEEMM-weng.pdf"">
+            paper
+           </a>
+          </td>
+         </tr>
+        </tr>
+       </tr>
+      </tbody>
+     </table>
+     <div class=""back_to_top"">
+      <a class=""black_link"" href=""#navigator"">
+       back to top
+      </a>
+     </div>
+    </div>
+    <!-- Tiling Slidshow -->
+    <div class=""project_item"">
+     <table>
+      <tbody>
+       <tr>
+        <td class=""project_image"">
+         <img alt=""Tiling Slideshow"" class=""align-center"" height=""425"" src=""images\TilingSlideshow.jpg"" width=""722""/>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_title"">
+         <a class=""project_title_link"" href=""https://www.cmlab.csie.ntu.edu.tw/TilingSlideshow/"">
+          Tiling Slideshow
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_author"">
+         <a class=""author_link"" href=""https://scholar.google.com.au/citations?user=3x9KITUAAAAJ&amp;hl=en"">
+          Jun-Cheng Chen
+         </a>
+         ,
+         <a class=""author_link"" href=""http://mmcv.csie.ncku.edu.tw/~wtchu/"">
+          Wei-Ta Chu
+         </a>
+         ,
+         <a class=""author_link"" href=""https://www.researchgate.net/scientific-contributions/Jin-Hau-Kuo-9576006"">
+          Jin-Hau Kuo
+         </a>
+         ,
+         <b>
+          Chung-Yi Weng
+         </b>
+         ,
+         <a class=""author_link"" href=""https://www.cmlab.csie.ntu.edu.tw/cml/dsp/prof-wu/prof-wu.html"">
+          Ja-Ling Wu
+         </a>
+        </td>
+        <tr>
+         <tr>
+          <td class=""research_misc"">
+           <i>
+            ACM Multimedia
+           </i>
+           2006
+           <b>
+            <font color=""red"">
+             (Best Paper Award)
+            </font>
+           </b>
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_description"">
+           Tiling Slideshow is a brave new photo displaying method to arrange photos in a tile-like manner, coordinating with the pace of background music. Photo clustering is applied based on the relationship between photos; music beat detection is perfomed in order to trigger the progress of slideshow; photo importance is computed to help ROI determination. Finally, the layout organization is formulated as a constrianed optimization problem to make sure the most satisfied composition results could be produced.
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_appendix"">
+           <a class=""project_link"" href=""https://www.cmlab.csie.ntu.edu.tw/TilingSlideshow/"">
+            project page
+           </a>
+           |
+           <a class=""project_link"" href=""https://www.cmlab.csie.ntu.edu.tw/new_cml_website/media/publications/Chen-2006-TS.pdf"">
+            paper
+           </a>
+          </td>
+         </tr>
+        </tr>
+       </tr>
+      </tbody>
+     </table>
+     <div class=""back_to_top"">
+      <a class=""black_link"" href=""#navigator"">
+       back to top
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class=""item_block"" id=""project"">
+    <div class=""item_headline"">
+     <h2>
+      Project
+     </h2>
+    </div>
+    <!-- Moonriver -->
+    <div class=""project_item"">
+     <table>
+      <tbody>
+       <tr>
+        <td class=""project_image"">
+         <img align=""left"" alt=""Digit Space"" height=""429"" src=""images\digitspace.gif"" width=""427""/>
+         <img align=""right"" alt=""MoonRiver"" height=""429"" src=""images\moonriver.png"" width=""332""/>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_title"">
+         <a class=""project_title_link"" href=""files/moonriver_report.pdf"">
+          MoonRiver: Deep Neural Network in C++
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_author"">
+         <b>
+          Chung-Yi Weng
+         </b>
+        </td>
+        <tr>
+         <tr>
+          <td class=""project_description"">
+           <p>
+            MoonRiver is a deep neural network framework built from scratch using C++. 
+                           Our goal is to shed light on the complex inner working flow of network learning. 
+                           We have designed MoonRiver to be 
+                           (1)
+            <i>
+             lightweight
+            </i>
+            : no third-party dependencies, easy to compile with any standard C++ compiler; 
+                           (2)
+            <i>
+             scalable
+            </i>
+            : effortlessly designing and learning large networks with minimal fuss.
+           </p>
+           <p>
+            We demonstrate the effectiveness of MoonRiver by training and testing auto-encoder and LeNet. 
+                        The codes used to implement these networks are concise and the experimental results are promising.
+           </p>
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_appendix"">
+           <a class=""project_link"" href=""projects/moonriver/poster.pdf"">
+            poster
+           </a>
+           |
+           <a class=""project_link"" href=""projects/moonriver/report.pdf"">
+            report
+           </a>
+          </td>
+         </tr>
+        </tr>
+       </tr>
+      </tbody>
+     </table>
+     <div class=""back_to_top"">
+      <a class=""black_link"" href=""#navigator"">
+       back to top
+      </a>
+     </div>
+    </div>
+    <!-- Become Brad Pitt -->
+    <div class=""project_item"" id=""become_brad_pitt"">
+     <table>
+      <tbody>
+       <tr>
+        <td class=""project_image"">
+         <img alt=""become brad pitt"" class=""align-center"" height=""259"" src=""images\become_brad_pitt.jpg"" width=""700""/>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_title"">
+         <a class=""project_title_link"" href=""files/chungyi_2016_vision_project.pdf"">
+          Becoming Brad Pitt
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_author"">
+         <b>
+          Chung-Yi Weng
+         </b>
+         ,
+         <a ,="""" class=""author_link"" href=""https://roxanneluo.github.io/"">
+          Xuan Luo
+         </a>
+        </td>
+        <tr>
+         <tr>
+          <td class=""course_project_misc"">
+           Final Project, Computer Vision (UW CSE576)
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_description"">
+           In this project, we designed a face reenactment system that enables users to control another person's (e.g Brad Pitt) head motions and facial expressions.  
+                        Our system involves implementing a high-speed tracking module, a puppetry module to control facial expression and a morphig module to enforce smooth transition when switching inbween different identities. 
+                        Experiments show that our system can reenact head motions and facial expressions of a target person in real time.
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_appendix"">
+           <a class=""project_link"" href=""projects/bradpitt/report.pdf"">
+            report
+           </a>
+           |
+           <a class=""project_link"" href=""https://drive.google.com/file/d/1ygbj2-g9c41DgjLdS79YwIFLpCSQyCIR/view?usp=sharing"">
+            video
+           </a>
+          </td>
+         </tr>
+        </tr>
+       </tr>
+      </tbody>
+     </table>
+     <div class=""back_to_top"">
+      <a class=""black_link"" href=""#navigator"">
+       back to top
+      </a>
+     </div>
+    </div>
+    <!-- Heyperlapse -->
+    <div class=""project_item"" id=""hyperlapse"">
+     <table>
+      <tbody>
+       <tr>
+        <td class=""project_image"">
+         <img alt=""hyperlapse"" class=""align-center"" height=""341"" src=""images\hyperlapse.jpg"" width=""632""/>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_title"">
+         <a class=""project_title_link"" href=""projects/hyperlapse/index.html"">
+          Hyperlapse Video Creation
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_author"">
+         <b>
+          Chung-Yi Weng
+         </b>
+         ,
+         <a ,="""" class=""author_link"" href=""https://yangxinuw.github.io/"">
+          Xin Yang
+         </a>
+        </td>
+        <tr>
+         <tr>
+          <td class=""course_project_misc"">
+           Final Project, Computer Graphics (UW CSE557)
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_description"">
+           The project aims to create a hyperlapse video in real-time. 
+                        To this end, we describe the input video as a graph where the nodes represent frames and the edges are cost functions that penalize undesired frame transitions. 
+                        A heyperlapse video with a given target speed can be generated by finding an optimal path in the graph.
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_appendix"">
+           <a class=""project_link"" href=""projects/hyperlapse/index.html"">
+            project page
+           </a>
+          </td>
+         </tr>
+        </tr>
+       </tr>
+      </tbody>
+     </table>
+     <div class=""back_to_top"">
+      <a class=""black_link"" href=""#navigator"">
+       back to top
+      </a>
+     </div>
+    </div>
+    <!-- Local Collision Avoidance for a Nano-drone -->
+    <div class=""project_item"" id=""local_collision"">
+     <table>
+      <tbody>
+       <tr>
+        <td class=""project_image"">
+         <img alt=""nano-drone"" class=""align-center"" height=""341"" src=""projects/robotics/teaser.jpg"" width=""632""/>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_title"">
+         <a class=""project_title_link"" href=""projects/robotics/video.mp4"">
+          Local Collision Avoidance for a Nano-drone
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td class=""project_author"">
+         <a class=""author_link"" href=""https://www.youtube.com/watch?v=8SGx2qmo9M4"">
+          Melanie Anderson,
+         </a>
+         <b>
+          Chung-Yi Weng
+         </b>
+         ,
+         <a class=""author_link"" href=""https://bindita.github.io/"">
+          Bindita Chaudhuri
+         </a>
+        </td>
+        <tr>
+         <tr>
+          <td class=""course_project_misc"">
+           Final Project, Robotics (UW CSE571)
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_description"">
+           In this project, we have come up with a system that lets a nano-drone navigate an indoor space filled with static and moving objects. 
+                        We do this by creating a map of the environment using raw laser data, represented as an occupancy grid. 
+                        To find the best route to the goal, we use A* search. 
+                        If any moving objects get in the way during navigation, we update the map and come up with a new obstacle-free path.
+          </td>
+         </tr>
+         <tr>
+          <td class=""project_appendix"">
+           <a class=""project_link"" href=""projects/robotics/report.pdf"">
+            report
+           </a>
+           <a class=""project_link"" href=""projects/robotics/video.mp4"">
+            video
+           </a>
+          </td>
+         </tr>
+        </tr>
+       </tr>
+      </tbody>
+     </table>
+     <div class=""back_to_top"">
+      <a class=""black_link"" href=""#navigator"">
+       back to top
+      </a>
+     </div>
+    </div>
+    <div class=""item_block"" id=""industry_product"">
+     <div class=""item_headline"">
+      <h2>
+       Industry Product
+      </h2>
+     </div>
+     <!-- magic selection -->
+     <div class=""project_item"" id=""magic_selection"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""Magic Selection"" class=""align-center"" height=""198"" src=""images\MagicSelection.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          Magic Selection
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          Magic Selection assists users in selecting objects on an image by predicting object boundaries based on user-drawn foreground/background strokes.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <!-- smart lasso -->
+     <div class=""project_item"" id=""smart_lasso"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""Smart Lasso"" class=""align-center"" height=""197"" src=""images\SmartLasso.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          Smart Lasso
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          Smart Lasso adjusts a user-drawn boundary to fit the true object boundary, providing an alternative approach for labeling objects.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <!-- soft matting -->
+     <div class=""project_item"" id=""soft_matting"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""Soft Matting"" class=""align-center"" height=""225"" src=""images\SoftMatting.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          Soft Matting
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          Soft Matting predicts opacity values on user-labeled regions, applying image matting in an interactive manner. 
+                        Matting technique is helpful for refining boundary of objects such as fur or hairs.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <!-- Perfect Group Shot -->
+     <div class=""project_item"" id=""perfect_group_shot"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""Perfect Group Shot"" class=""align-center"" height=""215"" src=""images\PerfectGroupShot.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          Perfect Group Shot
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          By capturing several photos in a short period, Perfect Group Shot creates a group photo by seamlessly compositing human subjects with the best facial expressions (e.g. smiling without eye blinking) from different images.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <!-- Sequence Shot -->
+     <div class=""project_item"" id=""sequence_shot"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""Sequence Shot"" class=""align-center"" height=""216"" src=""images\SequenceShot.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          Sequence Shot
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          Sequence Shot creates a time-lapse effect in a single image by detecting and combining moving subjects from multiple photos.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <!-- Panorama -->
+     <div class=""project_item"" id=""panorama"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""Panorama"" class=""align-center"" height=""256"" src=""images\Panorama.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          Panorama
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          Panorama is an image stiching technique for creating a wide-angle view photo from multiple images. 
+                        Our system allows for taking as input out-of-order images and is robust to panning, zooming, and moving objects.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <!-- Holmes -->
+     <div class=""project_item"" id=""holmes"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""Holmes"" class=""align-center"" height=""282"" src=""images\Holmes.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          Holmes ‐ (Object Tracking by Rectangle or Point)
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          Holmes tracks objects in a video given a point or a rectangle as input. The tracked point or rectangle are used for video editing tasks such as adding a dialog box on top of an object.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <!-- Cupid -->
+     <div class=""project_item"" id=""cupid"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""Cupid"" class=""align-center"" height=""158"" src=""images\Cupid.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          Cupid ‐ (Object Tracking by Object Boundary)
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          Cupid tracks an object as well as its region in a video, taken as input a user-labeled object mask at the first frame. 
+                        The generated object masks are used for downstream video editing such as applying filters on the labeled object.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <!-- Robust Face Detection -->
+     <div class=""project_item"" id=""robust_face_detection"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""Robust Face Detection"" class=""align-center"" height=""245"" src=""images\RobustFaceDetection.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          Robust Face Detection
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          Building upon sparse and high-dimension features, we train a face detector with a hierarchical architecture that performs swift detection and is robust to in-plane and out-of-plane rotations.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <!-- Facial Landmark Localization -->
+     <div class=""project_item"" id=""facial_landmark_localization"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""Facial Landmark Localization"" class=""align-center"" height=""222"" src=""images\FacialLandmarkLocalization.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          Facial Landmark Localization
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          We train a facial landmark detector in an iterative optimization process by selecting the most discriminative feature in each iteration. 
+                        The detection is real-time and robust to occlusions and hard shadows. 
+                        Building upon the technique, CyberLink starts a startup,
+          <a class=""red_link"" href=""https://www.perfectcorp.com/business"">
+           Perfect Corp.
+          </a>
+          , that focuses on virtual makeup and
+          <a class=""red_link"" href=""https://www.businesswire.com/news/home/20221031005599/en/Perfect-Corp.-Debuts-on-the-New-York-Stock-Exchange-NYSE"">
+           goes public on the NYSE
+          </a>
+          in 2022
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <!-- Face Login -->
+     <div class=""project_item"" id=""face_login"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""Face Login"" class=""align-center"" height=""229"" src=""images\FaceLogin.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          Face Login
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          Face Login takes as input video frames from an RGB webcam and recognizes human faces to determine authorized users.
+                        The system adopts online learning approach to update face models, hence robust to different light conditions.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <!-- FaceME -->
+     <div class=""project_item"" id=""face_me"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""FaceME"" class=""align-center"" height=""635"" src=""images\FaceME.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          FaceME ‐ (Face Clustering/Recognition in Photos/Videos)
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          FaceME recognizes and clusters faces in photos and videos with similar appearances, assisting users to effectively tag faces and organize personal datasets.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <!-- Chaplin -->
+     <div class=""project_item"" id=""chaplin"">
+      <table>
+       <tbody>
+        <tr>
+         <td class=""project_image"">
+          <img alt=""Chaplin"" class=""align-center"" height=""274"" src=""images\Chaplin.jpg"" width=""784""/>
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_title"">
+          Chaplin ‐ (Hand Tracking Based Button Control System)
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_misc"">
+          Industry Product @ CyberLink
+         </td>
+        </tr>
+        <tr>
+         <td class=""project_description"">
+          Chaplin tracks your hand movements to control the buttons displayed on the screen. 
+                        Just wave your hand to activate the system, and it follows your hand's every move.
+                        All it takes is a webcam to provide the RGB frames as input.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class=""back_to_top"">
+       <a class=""black_link"" href=""#navigator"">
+        back to top
+       </a>
+      </div>
+     </div>
+     <div>
+      <div class=""item_block"" id=""patents"">
+       <div class=""item_headline"">
+        <h2>
+         Patents
+        </h2>
+       </div>
+       <div class=""cv_item_content"" id=""patent_content"">
+        <div class=""patent_item"">
+         <table>
+          <thead class=""patent_table_head"">
+           <tr>
+            <th class=""patent_number_head"" scope=""col"">
+             Patent No.
+            </th>
+            <th class=""patent_country_head"" scope=""col"">
+             Country
+            </th>
+            <th class=""patent_title_head"" scope=""col"">
+             Title
+            </th>
+           </tr>
+          </thead>
+          <tbody>
+           <tr>
+            <td class=""patent_number"">
+             <a href=""https://www.google.com/patents/US8121358"">
+              US 8,121,358
+             </a>
+            </td>
+            <td class=""patent_country"">
+             US
+            </td>
+            <td class=""patent_title"">
+             <b>
+              C.-Y. Weng
+             </b>
+             , W.-T. Tsai, and C.-M. Lee, ""Method of Grouping Images by Faces""
+            </td>
+           </tr>
+           <tr>
+            <td class=""patent_number"">
+             <a href=""https://www.google.com/patents/US8531478"">
+              US 8,531,478
+             </a>
+            </td>
+            <td class=""patent_country"">
+             US
+            </td>
+            <td class=""patent_title"">
+             C.-M. Lee,
+             <b>
+              C.-Y. Weng
+             </b>
+             , ""Method of Browsing Photos based on People""
+            </td>
+           </tr>
+           <tr>
+            <td class=""patent_number"">
+             <a href=""https://www.google.com/patents/US8649602"">
+              US 8,649,602
+             </a>
+            </td>
+            <td class=""patent_country"">
+             US
+            </td>
+            <td class=""patent_title"">
+             S.-M. Tang,
+             <b>
+              C.-Y. Weng
+             </b>
+             , and J.-H. Huang, ""Systems and Methods for Tagging Photos""
+            </td>
+           </tr>
+           <tr>
+            <td class=""patent_number"">
+             <a href=""https://www.google.com/patents/US8693739"">
+              US 8,693,739
+             </a>
+            </td>
+            <td class=""patent_country"">
+             US
+            </td>
+            <td class=""patent_title"">
+             <b>
+              C.-Y. Weng
+             </b>
+             , S.-M. Tang, and H.-C. Huang , ""Systems and Methods for Performing Facial Detection""
+            </td>
+           </tr>
+           <tr>
+            <td class=""patent_number"">
+             <a href=""https://www.google.com/patents/US8761519"">
+              US 8,761,519
+             </a>
+            </td>
+            <td class=""patent_country"">
+             US
+            </td>
+            <td class=""patent_title"">
+             M.-H. Chang,
+             <b>
+              C.-Y. Weng
+             </b>
+             , ""System and method for Selecting an Object Boundary in an Image""
+            </td>
+           </tr>
+           <tr>
+            <td class=""patent_number"">
+             <a href=""https://www.google.com/patents/US8769409"">
+              US 8,769,409
+             </a>
+            </td>
+            <td class=""patent_country"">
+             US
+            </td>
+            <td class=""patent_title"">
+             <b>
+              C.-Y. Weng
+             </b>
+             , H.-C. Huang , ""Systems and Methods for Improving Object Detection""
+            </td>
+           </tr>
+           <tr>
+            <td class=""patent_number"">
+             <a href=""https://www.google.com/patents/US8867789"">
+              US 8,867,789
+             </a>
+            </td>
+            <td class=""patent_country"">
+             US
+            </td>
+            <td class=""patent_title"">
+             H.-W. Hsiao,
+             <b>
+              C.-Y. Weng
+             </b>
+             , ""Systems and Methods for Tracking an Object in a Video""
+            </td>
+           </tr>
+           <tr>
+            <td class=""patent_number"">
+             <a href=""https://www.google.com/patents/US9336583"">
+              US 9,336,583
+             </a>
+            </td>
+            <td class=""patent_country"">
+             US
+            </td>
+            <td class=""patent_title"">
+             H.-C. Huang, H.-W. Hsiao,
+             <b>
+              C.-Y. Weng
+             </b>
+             , and C.-D. Chung, ""Systems and Methods for Image Editing ""
+            </td>
+           </tr>
+           <tr>
+            <td class=""patent_number"">
+             <a href=""https://worldwide.espacenet.com/publicationDetails/originalDocument?FT=D&amp;date=20120425&amp;DB=worldwide.espacenet.com&amp;locale=en_EP&amp;CC=JP&amp;NR=4925370B2&amp;KC=B2&amp;ND=5"">
+              JP 4,925,370
+             </a>
+            </td>
+            <td class=""patent_country"">
+             JP
+            </td>
+            <td class=""patent_title"">
+             <b>
+              C.-Y. Weng
+             </b>
+             , W.-T. Tsai, and C.-M. Lee, ""Method of Grouping Images by Faces""
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
+","['<a href=""projects/moonriver/poster.pdf"" class=""project_link"">poster</a> |', '<a href=""projects/moonriver/report.pdf"" class=""project_link"">report</a>', '<a href=""projects/bradpitt/report.pdf"" class=""project_link"">report</a> |']"
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,group project files,projects/bradpitt/report.pdf,renamed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,group project files,projects/moonriver/poster.pdf,renamed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,group project files,projects/moonriver/report.pdf,renamed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/Hello.jpg,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/SmartVideoSegmentLabelling.jpg,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/apple_news.png,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/cartoon-brew.jpg,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/dt.jpg,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/futurism.png,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/geekwire.png,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/gizmodo.png,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/mit.png,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/next-reality.png,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/nvidia.png,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/petapixel.jpg,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/petapixel.png,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/uwnews.png,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/venture-beat.png,removed,,,,
+https://github.com/chungyiweng/chungyiweng.github.io/commits/main/,remove unused files,images/press/vrscout.png,removed,,,,
